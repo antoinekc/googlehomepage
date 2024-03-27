@@ -1,2 +1,2 @@
 # googlehomepage
-design and copy the google home page
+Ceci est le premier projet de the hacking project.
